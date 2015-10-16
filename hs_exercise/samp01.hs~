@@ -1,0 +1,2 @@
+foo x y = x+y
+hoge = 12
